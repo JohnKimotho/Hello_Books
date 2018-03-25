@@ -1,1 +1,7 @@
-.bg{background: url("./stock.jpg") no-repeat; width: 100%;height: 100vh;}
+.bg{  
+background-image:url("./lib.jpg"); 
+background-repeat:no-repeat;
+background-size: cover;
+height:100vh;
+width:100%; 
+}
